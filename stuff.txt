@@ -1,0 +1,28 @@
+https://www.bigocheatsheet.com/
+
+General:
+Growth Rate (Big-O)	Name
+c			Constant
+log n			Logarithmic
+n			Linear
+nlogn			Quasilinear
+n^2			Quadratic
+n^3			Cubic
+2^n			Exponential
+n!			Factorial
+
+Sorting: 
+Name 			Best			Average			Worst
+Selection Sort		O(n^2)			O(n^2)			O(n^2)
+Bubble Sort		O(n)			O(n^2)			O(n^2)
+Insertion Sort 		O(n)			O(n^2)			O(n^2)
+Heap Sort		O(nlogn)		O(nlogn)		O(nlogn)
+Quick Sort 		O(nlogn)		O(nlogn)		O(n^2)
+Merge Sort 		O(nlogn)		O(nlogn)		O(nlogn)
+Bucket Sort 		O(n+k)			O(n+k)			O(n^2)
+Radix Sort		O(nk)			O(nk)			O(nk)
+Count Sort 		O(n+k)			O(n+k)			O(n+k)	
+Tim Sort		O(n)			O(nlogn)		O(nlogn)
+Tree Sort 		O(nlogn)		O(nlogn)		O(n^2)
+Shell Sort 		O(nlogn)		O(n(logn)^2)		O(n(logn)^2)
+Cube Sort		O(n)			O(nlogn)		O(nlogn)
